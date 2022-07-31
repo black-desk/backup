@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>FreshRSS</title>
-    <dateCreated>Mon, 25 Jul 2022 12:44:39</dateCreated>
+    <dateCreated>Sun, 31 Jul 2022 15:02:07</dateCreated>
   </head>
   <body>
     <outline text="未分类">
@@ -13,7 +13,8 @@
       <outline text="DIYgod" type="rss" xmlUrl="https://diygod.me/atom.xml" htmlUrl="https://diygod.me/" description=""/>
       <outline text="LWN.net" type="rss" xmlUrl="http://lwnfeed:8080/feed.rss" htmlUrl="https://lwn.net/" description="LWN.net is a comprehensive source of news and opinions from and about the Linux community. This is the main LWN.net feed, listing all articles which are posted to the site front page."/>
       <outline text="Sid Bala" type="rss" xmlUrl="https://sidbala.com/rss/" htmlUrl="https://sidbala.com/" description="Technology Polymath"/>
-      <outline text="王垠" type="rss" xmlUrl="https://rsshub.app/blogs/wangyin" htmlUrl="https://www.yinwang.org/" description=""/>
+      <outline text="夜法之书" type="rss" xmlUrl="https://blog.17lai.site/atom.xml" htmlUrl="https://blog.17lai.site/" description=""/>
+      <outline text="王垠" type="rss" xmlUrl="https://rsshub.app/blogs/wangyin" htmlUrl="https://www.yinwang.org/" description="王垠的博客 - 当然我在扯淡 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)"/>
       <outline text="美团技术团队" type="rss" xmlUrl="https://rsshub.black-desk.cn/meituan/tech/home" htmlUrl="https://tech.meituan.com/feed/" description="美团技术团队最近更新内容。 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)"/>
       <outline text="酷壳" type="rss" xmlUrl="https://coolshell.cn/feed" htmlUrl="https://coolshell.cn/" description="享受编程和技术所带来的快乐 - Coding Your Ambition"/>
       <outline text="阮一峰的网络日志" type="rss" xmlUrl="https://feeds.feedburner.com/ruanyifeng" htmlUrl="http://www.ruanyifeng.com/blog/" description="Ruan YiFeng's Blog"/>
@@ -24,11 +25,16 @@
       <outline text="凶残的红叶" type="rss" xmlUrl="https://rsshub.black-desk.cn/bilibili/user/video/2612610" htmlUrl="https://space.bilibili.com/2612610" description=""/>
       <outline text="小约翰可汗" type="rss" xmlUrl="https://rsshub.black-desk.cn/bilibili/user/video/23947287" htmlUrl="https://space.bilibili.com/23947287" description="小约翰可汗 的 bilibili 空间 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)"/>
       <outline text="小野寺AMIKUN" type="rss" xmlUrl="https://rsshub.black-desk.cn/bilibili/user/video/20771487" htmlUrl="https://space.bilibili.com/20771487" description="小野寺AMIKUN 的 bilibili 空间 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)"/>
+      <outline text="懒懒的白胖呀" type="rss" xmlUrl="https://rsshub.black-desk.cn/bilibili/user/video/478082943" htmlUrl="https://space.bilibili.com/478082943" description="懒懒的白胖呀 的 bilibili 空间 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)"/>
       <outline text="木鱼水心" type="rss" xmlUrl="https://rsshub.black-desk.cn/bilibili/user/video/927587" htmlUrl="https://space.bilibili.com/927587" description="木鱼水心 的 bilibili 空间 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)"/>
       <outline text="泛式" type="rss" xmlUrl="https://rsshub.black-desk.cn/bilibili/user/video/63231" htmlUrl="https://space.bilibili.com/63231" description="泛式 的 bilibili 空间 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)"/>
       <outline text="神奇的维C" type="rss" xmlUrl="https://rsshub.black-desk.cn/bilibili/user/video/17832078" htmlUrl="https://space.bilibili.com/17832078" description="神奇的维C 的 bilibili 空间 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)"/>
       <outline text="超级小桀的日常" type="rss" xmlUrl="https://rsshub.black-desk.cn/bilibili/user/video/29440965" htmlUrl="https://space.bilibili.com/29440965" description="超级小桀的日常 的 bilibili 空间 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)"/>
       <outline text="青蛙刀圣1993" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCWx-9tUBYtpVVchhNVDchSw" htmlUrl="https://www.youtube.com/channel/UCWx-9tUBYtpVVchhNVDchSw" description=""/>
+    </outline>
+    <outline text="论坛">
+      <outline text="FreeMdict" type="rss" xmlUrl="https://forum.freemdict.com/latest.rss" htmlUrl="https://forum.freemdict.com/latest" description="最新话题"/>
+      <outline text="Skyey天雪" type="rss" xmlUrl="https://skyeysnow.com/ptrss.php?id=6a9c50a8f7cd3a34a765" htmlUrl="https://www.skyey2.com/" description=""/>
     </outline>
     <outline text="通知">
       <outline text="FreshRSS releases" type="rss" xmlUrl="https://github.com/FreshRSS/FreshRSS/releases.atom" htmlUrl="https://github.com/FreshRSS/FreshRSS/" description="FreshRSS releases @ GitHub"/>
