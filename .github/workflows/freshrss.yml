@@ -1,7 +1,7 @@
 on:
   push:
   schedule:
-    - cron:  '0 20 * * 7'
+    - cron:  '0 20 * * 0'
 jobs:
   backup_freshrss:
     runs-on: ubuntu-latest
