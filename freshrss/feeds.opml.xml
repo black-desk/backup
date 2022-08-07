@@ -2,17 +2,22 @@
 <opml version="2.0">
   <head>
     <title>FreshRSS</title>
-    <dateCreated>Mon, 01 Aug 2022 04:15:33</dateCreated>
+    <dateCreated>Mon, 08 Aug 2022 04:15:36</dateCreated>
   </head>
   <body>
-    <outline text="未分类">
+    <outline text="媒体">
+      <outline text="亚马跌" type="rss" xmlUrl="https://www.ymdie.com/feed" htmlUrl="https://www.ymdie.com/" description="一个「硬核选购」网站"/>
+      <outline text="器物于我" type="rss" xmlUrl="https://www.qwyw.org/feed" htmlUrl="https://www.qwyw.org/" description="搬运商品常识，介绍独立评测机构和消费者组织，反过度营销，致力于解毒拔草泼冷水。"/>
       <outline text="少数派" type="rss" xmlUrl="https://rsshub.black-desk.cn/sspai/index" htmlUrl="https://sspai.com/" description="少数派 -- 首页 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)"/>
+      <outline text="数字移民" type="rss" xmlUrl="https://blog.shuziyimin.org/feed" htmlUrl="https://blog.shuziyimin.org/" description="肉体和精神，总要有一个是自由的。"/>
     </outline>
     <outline text="技术">
       <outline text="Ariadne's Space" type="rss" xmlUrl="https://ariadne.space/feed/" htmlUrl="https://ariadne.space/" description=""/>
       <outline text="DIYgod" type="rss" xmlUrl="https://diygod.me/atom.xml" htmlUrl="https://diygod.me/" description=""/>
       <outline text="LWN.net" type="rss" xmlUrl="http://lwnfeed:8080/feed.rss" htmlUrl="https://lwn.net/" description="LWN.net is a comprehensive source of news and opinions from and about the Linux community. This is the main LWN.net feed, listing all articles which are posted to the site front page."/>
+      <outline text="Nicholas Nethercote" type="rss" xmlUrl="https://nnethercote.github.io/feed.xml" htmlUrl="https://nnethercote.github.io/" description="Be kind and be useful."/>
       <outline text="Sid Bala" type="rss" xmlUrl="https://sidbala.com/rss/" htmlUrl="https://sidbala.com/" description="Technology Polymath"/>
+      <outline text="stuff by danvet" type="rss" xmlUrl="https://blog.ffwll.ch/feed.xml" htmlUrl="http://blog.ffwll.ch/" description="Daniel Vetter's ramblings on code, bugs, graphics, hw and the utter lack of sanity in all this."/>
       <outline text="夜法之书" type="rss" xmlUrl="https://blog.17lai.site/atom.xml" htmlUrl="https://blog.17lai.site/" description=""/>
       <outline text="王垠" type="rss" xmlUrl="https://rsshub.app/blogs/wangyin" htmlUrl="https://www.yinwang.org/" description="王垠的博客 - 当然我在扯淡 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)"/>
       <outline text="美团技术团队" type="rss" xmlUrl="https://rsshub.black-desk.cn/meituan/tech/home" htmlUrl="https://tech.meituan.com/feed/" description="美团技术团队最近更新内容。 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)"/>
@@ -21,6 +26,7 @@
     </outline>
     <outline text="视频更新">
       <outline text="Cracking The Cryptic" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCC-UOdK8-mIjxBQm_ot1T-Q" htmlUrl="https://www.youtube.com/channel/UCC-UOdK8-mIjxBQm_ot1T-Q" description=""/>
+      <outline text="STN工作室" type="rss" xmlUrl="https://rsshub.black-desk.cn/bilibili/user/video/7349" htmlUrl="https://space.bilibili.com/7349" description="STN工作室 的 bilibili 空间 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)"/>
       <outline text="X调查" type="rss" xmlUrl="https://rsshub.black-desk.cn/bilibili/user/video/339233162" htmlUrl="https://space.bilibili.com/339233162" description="X调查 的 bilibili 空间 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)"/>
       <outline text="凶残的红叶" type="rss" xmlUrl="https://rsshub.black-desk.cn/bilibili/user/video/2612610" htmlUrl="https://space.bilibili.com/2612610" description=""/>
       <outline text="小约翰可汗" type="rss" xmlUrl="https://rsshub.black-desk.cn/bilibili/user/video/23947287" htmlUrl="https://space.bilibili.com/23947287" description="小约翰可汗 的 bilibili 空间 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)"/>
@@ -28,6 +34,7 @@
       <outline text="懒懒的白胖呀" type="rss" xmlUrl="https://rsshub.black-desk.cn/bilibili/user/video/478082943" htmlUrl="https://space.bilibili.com/478082943" description="懒懒的白胖呀 的 bilibili 空间 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)"/>
       <outline text="木鱼水心" type="rss" xmlUrl="https://rsshub.black-desk.cn/bilibili/user/video/927587" htmlUrl="https://space.bilibili.com/927587" description="木鱼水心 的 bilibili 空间 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)"/>
       <outline text="泛式" type="rss" xmlUrl="https://rsshub.black-desk.cn/bilibili/user/video/63231" htmlUrl="https://space.bilibili.com/63231" description="泛式 的 bilibili 空间 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)"/>
+      <outline text="瓶子君152 的 bilibili 空间" type="rss" xmlUrl="https://rsshub.black-desk.cn/bilibili/user/video/730732" htmlUrl="https://space.bilibili.com/730732" description="瓶子君152 的 bilibili 空间 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)"/>
       <outline text="神奇的维C" type="rss" xmlUrl="https://rsshub.black-desk.cn/bilibili/user/video/17832078" htmlUrl="https://space.bilibili.com/17832078" description="神奇的维C 的 bilibili 空间 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)"/>
       <outline text="超级小桀的日常" type="rss" xmlUrl="https://rsshub.black-desk.cn/bilibili/user/video/29440965" htmlUrl="https://space.bilibili.com/29440965" description="超级小桀的日常 的 bilibili 空间 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)"/>
       <outline text="青蛙刀圣1993" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCWx-9tUBYtpVVchhNVDchSw" htmlUrl="https://www.youtube.com/channel/UCWx-9tUBYtpVVchhNVDchSw" description=""/>
@@ -35,6 +42,8 @@
     <outline text="论坛">
       <outline text="FreeMdict" type="rss" xmlUrl="https://forum.freemdict.com/latest.rss" htmlUrl="https://forum.freemdict.com/latest" description="最新话题"/>
       <outline text="Skyey天雪" type="rss" xmlUrl="https://skyeysnow.com/ptrss.php?id=6a9c50a8f7cd3a34a765" htmlUrl="https://www.skyey2.com/" description=""/>
+      <outline text="今日热门-什么值得买好文" type="rss" xmlUrl="https://rsshub.black-desk.cn/smzdm/haowen/1" htmlUrl="https://post.smzdm.com/hot_1" description="今日热门-什么值得买好文 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)"/>
+      <outline text="整合包发布 mcbbs" type="rss" xmlUrl="https://rsshub.black-desk.cn/mcbbs/forum/modpack" htmlUrl="https://www.mcbbs.net/forum.php?fid=modpack&amp;filter=lastpost&amp;mod=forumdisplay&amp;orderby=lastpost" description="最大的《Minecraft》（我的世界）Mod整合包交流、分享、下载中文社交平台，你可以下载到我的世界各种整合包，就能直接体验到我的世界不一样的玩法，从带水反光影的简单整合到各类Mod组合的水星迫降等应有尽有。  - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)"/>
     </outline>
     <outline text="通知">
       <outline text="FreshRSS releases" type="rss" xmlUrl="https://github.com/FreshRSS/FreshRSS/releases.atom" htmlUrl="https://github.com/FreshRSS/FreshRSS/" description="FreshRSS releases @ GitHub"/>
