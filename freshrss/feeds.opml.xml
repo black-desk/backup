@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>FreshRSS</title>
-    <dateCreated>Mon, 08 Aug 2022 04:15:36</dateCreated>
+    <dateCreated>Mon, 15 Aug 2022 04:14:47</dateCreated>
   </head>
   <body>
     <outline text="媒体">
@@ -18,6 +18,7 @@
       <outline text="Nicholas Nethercote" type="rss" xmlUrl="https://nnethercote.github.io/feed.xml" htmlUrl="https://nnethercote.github.io/" description="Be kind and be useful."/>
       <outline text="Sid Bala" type="rss" xmlUrl="https://sidbala.com/rss/" htmlUrl="https://sidbala.com/" description="Technology Polymath"/>
       <outline text="stuff by danvet" type="rss" xmlUrl="https://blog.ffwll.ch/feed.xml" htmlUrl="http://blog.ffwll.ch/" description="Daniel Vetter's ramblings on code, bugs, graphics, hw and the utter lack of sanity in all this."/>
+      <outline text="⑨BIE" type="rss" xmlUrl="https://9bie.org/index.php/feed/" htmlUrl="https://9bie.org/" description="伪技术宅的迷之地  ~~  Strange Place Of The Pseudo Geeks"/>
       <outline text="夜法之书" type="rss" xmlUrl="https://blog.17lai.site/atom.xml" htmlUrl="https://blog.17lai.site/" description=""/>
       <outline text="王垠" type="rss" xmlUrl="https://rsshub.app/blogs/wangyin" htmlUrl="https://www.yinwang.org/" description="王垠的博客 - 当然我在扯淡 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)"/>
       <outline text="美团技术团队" type="rss" xmlUrl="https://rsshub.black-desk.cn/meituan/tech/home" htmlUrl="https://tech.meituan.com/feed/" description="美团技术团队最近更新内容。 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)"/>
@@ -43,7 +44,6 @@
       <outline text="FreeMdict" type="rss" xmlUrl="https://forum.freemdict.com/latest.rss" htmlUrl="https://forum.freemdict.com/latest" description="最新话题"/>
       <outline text="Skyey天雪" type="rss" xmlUrl="https://skyeysnow.com/ptrss.php?id=6a9c50a8f7cd3a34a765" htmlUrl="https://www.skyey2.com/" description=""/>
       <outline text="今日热门-什么值得买好文" type="rss" xmlUrl="https://rsshub.black-desk.cn/smzdm/haowen/1" htmlUrl="https://post.smzdm.com/hot_1" description="今日热门-什么值得买好文 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)"/>
-      <outline text="整合包发布 mcbbs" type="rss" xmlUrl="https://rsshub.black-desk.cn/mcbbs/forum/modpack" htmlUrl="https://www.mcbbs.net/forum.php?fid=modpack&amp;filter=lastpost&amp;mod=forumdisplay&amp;orderby=lastpost" description="最大的《Minecraft》（我的世界）Mod整合包交流、分享、下载中文社交平台，你可以下载到我的世界各种整合包，就能直接体验到我的世界不一样的玩法，从带水反光影的简单整合到各类Mod组合的水星迫降等应有尽有。  - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)"/>
     </outline>
     <outline text="通知">
       <outline text="FreshRSS releases" type="rss" xmlUrl="https://github.com/FreshRSS/FreshRSS/releases.atom" htmlUrl="https://github.com/FreshRSS/FreshRSS/" description="FreshRSS releases @ GitHub"/>
