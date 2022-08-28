@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>FreshRSS</title>
-    <dateCreated>Mon, 22 Aug 2022 04:15:47</dateCreated>
+    <dateCreated>Mon, 29 Aug 2022 04:15:59</dateCreated>
   </head>
   <body>
     <outline text="媒体">
@@ -10,6 +10,7 @@
       <outline text="器物于我" type="rss" xmlUrl="https://www.qwyw.org/feed" htmlUrl="https://www.qwyw.org/" description="搬运商品常识，介绍独立评测机构和消费者组织，反过度营销，致力于解毒拔草泼冷水。"/>
       <outline text="少数派" type="rss" xmlUrl="https://rsshub.black-desk.cn/sspai/index" htmlUrl="https://sspai.com/" description="少数派 -- 首页 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)"/>
       <outline text="数字移民" type="rss" xmlUrl="https://blog.shuziyimin.org/feed" htmlUrl="https://blog.shuziyimin.org/" description="肉体和精神，总要有一个是自由的。"/>
+      <outline text="游研社" type="rss" xmlUrl="https://www.yystv.cn/rss/feed" htmlUrl="https://www.yystv.cn/" description="无论你是游戏死忠，还是轻度的休闲玩家，在这里都能找到感兴趣的东西。"/>
     </outline>
     <outline text="技术">
       <outline text="Ariadne's Space" type="rss" xmlUrl="https://ariadne.space/feed/" htmlUrl="https://ariadne.space/" description=""/>
