@@ -2,9 +2,12 @@
 <opml version="2.0">
   <head>
     <title>FreshRSS</title>
-    <dateCreated>Mon, 05 Sep 2022 04:16:45</dateCreated>
+    <dateCreated>Mon, 12 Sep 2022 04:17:11</dateCreated>
   </head>
   <body>
+    <outline text="未分类">
+      <outline text="wallabag — unread feed" type="rss" xmlUrl="https://wallabag.black-desk.cn/feed/black_desk/6PXCH365iQy5Glc/unread" htmlUrl="http://wallabag/unread/list" description="Atom feed for unread entries"/>
+    </outline>
     <outline text="媒体">
       <outline text="亚马跌" type="rss" xmlUrl="https://www.ymdie.com/feed" htmlUrl="https://www.ymdie.com/" description="一个「硬核选购」网站"/>
       <outline text="器物于我" type="rss" xmlUrl="https://www.qwyw.org/feed" htmlUrl="https://www.qwyw.org/" description="搬运商品常识，介绍独立评测机构和消费者组织，反过度营销，致力于解毒拔草泼冷水。"/>
