@@ -1773,5 +1773,32 @@
         "htmlUrl": "https://coolshell.cn/",
         "feedUrl": "https://coolshell.cn/feed"
     }
+},
+{
+    "id": "https://tttang.com/archive/1793/",
+    "timestampUsec": "1667189638365422",
+    "categories": [
+        "user/-/state/com.google/read",
+        "user/-/state/com.google/starred"
+    ],
+    "title": "2022蓝帽杯遇见的 SUID 提权 总结篇",
+    "author": ";tiaotiao",
+    "published": 1667185440,
+    "updated": 1667185440,
+    "alternate": [
+        {
+            "href": "https://tttang.com/archive/1793/",
+            "type": "text/html"
+        }
+    ],
+    "content": {
+        "content": "<p><code>SUID</code>提权是前阵子在蓝帽杯中刚接触到的一个点，本来以为是挺鸡肋的一个点，但是前两天接触了一台真实使用的服务器（类似于上机排查取证）。发现竟然有很多可以利用的点，印象深刻的就是当时机子里有个<code>vim-basic</code>，甚至好像还有个<code>find</code>留着。这些都可能利用<code>suid</code>的特殊权限实现突破。于是重新学习一下。</p>"
+    },
+    "origin": {
+        "streamId": 45,
+        "title": "跳跳糖 - 安全与分享社区",
+        "htmlUrl": "https://tttang.com/",
+        "feedUrl": "https://tttang.com/rss.xml"
+    }
 }
 ]}
