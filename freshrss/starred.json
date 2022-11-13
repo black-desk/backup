@@ -1741,6 +1741,33 @@
     }
 },
 {
+    "id": "https://tttang.com/archive/1775/",
+    "timestampUsec": "1666838633511909",
+    "categories": [
+        "user/-/state/com.google/read",
+        "user/-/state/com.google/starred"
+    ],
+    "title": "PHP-FPM攻击详解",
+    "author": ";yake_daigua",
+    "published": 1666835340,
+    "updated": 1666835340,
+    "alternate": [
+        {
+            "href": "https://tttang.com/archive/1775/",
+            "type": "text/html"
+        }
+    ],
+    "content": {
+        "content": "<p>最近参加了浙江省信息安全竞赛，遇到了一道攻击fastcgi的题目，发现自己对php-fpm不够了解，于是做了一个归纳总结。</p>"
+    },
+    "origin": {
+        "streamId": 45,
+        "title": "跳跳糖 - 安全与分享社区",
+        "htmlUrl": "https://tttang.com/",
+        "feedUrl": "https://tttang.com/rss.xml"
+    }
+},
+{
     "id": "https://coolshell.cn/?p=22263",
     "timestampUsec": "1666946646219941",
     "categories": [
@@ -1782,7 +1809,7 @@
         "user/-/state/com.google/starred"
     ],
     "title": "2022蓝帽杯遇见的 SUID 提权 总结篇",
-    "author": ";tiaotiao",
+    "author": ";maytiaotiao",
     "published": 1667185440,
     "updated": 1667185440,
     "alternate": [
