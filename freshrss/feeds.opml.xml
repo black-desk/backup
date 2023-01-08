@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>FreshRSS</title>
-    <dateCreated>Mon, 02 Jan 2023 04:12:41</dateCreated>
+    <dateCreated>Mon, 09 Jan 2023 04:12:26</dateCreated>
   </head>
   <body>
     <outline text="未分类">
@@ -21,7 +21,7 @@
       <outline text="LWN.net" type="rss" xmlUrl="http://lwnfeed:8080/feed.rss" htmlUrl="https://lwn.net/" description="LWN.net is a comprehensive source of news and opinions from and about the Linux community. This is the main LWN.net feed, listing all articles which are posted to the site front page."/>
       <outline text="Nicholas Nethercote" type="rss" xmlUrl="https://nnethercote.github.io/feed.xml" htmlUrl="https://nnethercote.github.io/" description="Be kind and be useful."/>
       <outline text="Sid Bala" type="rss" xmlUrl="https://sidbala.com/rss/" htmlUrl="https://sidbala.com/" description="Technology Polymath"/>
-      <outline text="stuff by danvet" type="rss" xmlUrl="https://blog.ffwll.ch/feed.xml" htmlUrl="http://blog.ffwll.ch/" description="Daniel Vetter's ramblings on code, bugs, graphics, hw and the utter lack of sanity in all this."/>
+      <outline text="stuff by danvet" type="rss" xmlUrl="https://blog.ffwll.ch/feed.xml" htmlUrl="http://blog.ffwll.ch/" description="Vetter's ramblings on code, bugs, graphics, hw and the utter lack of sanity in all this."/>
       <outline text="The GitHub Blog" type="rss" xmlUrl="https://github.blog/feed/" htmlUrl="https://github.blog/" description="Updates, ideas, and inspiration from GitHub to help developers build and design software."/>
       <outline text="⑨BIE" type="rss" xmlUrl="https://9bie.org/index.php/feed/" htmlUrl="https://9bie.org/" description="伪技术宅的迷之地  ~~  Strange Place Of The Pseudo Geeks"/>
       <outline text="夜法之书" type="rss" xmlUrl="https://blog.17lai.site/atom.xml" htmlUrl="https://blog.17lai.site/" description=""/>
@@ -42,7 +42,7 @@
       <outline text="懒懒的白胖呀" type="rss" xmlUrl="https://rsshub.black-desk.cn/bilibili/user/video/478082943" htmlUrl="https://space.bilibili.com/478082943" description="undefined 的 bilibili 空间 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)"/>
       <outline text="木鱼水心" type="rss" xmlUrl="https://rsshub.black-desk.cn/bilibili/user/video/927587" htmlUrl="https://space.bilibili.com/927587" description="undefined 的 bilibili 空间 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)"/>
       <outline text="泛式" type="rss" xmlUrl="https://rsshub.black-desk.cn/bilibili/user/video/63231" htmlUrl="https://space.bilibili.com/63231" description="undefined 的 bilibili 空间 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)"/>
-      <outline text="瓶子君152 的 bilibili 空间" type="rss" xmlUrl="https://rsshub.black-desk.cn/bilibili/user/video/730732" htmlUrl="https://space.bilibili.com/730732" description="undefined 的 bilibili 空间 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)"/>
+      <outline text="瓶子君152" type="rss" xmlUrl="https://rsshub.black-desk.cn/bilibili/user/video/730732" htmlUrl="https://space.bilibili.com/730732" description="undefined 的 bilibili 空间 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)"/>
       <outline text="神奇的维C" type="rss" xmlUrl="https://rsshub.black-desk.cn/bilibili/user/video/17832078" htmlUrl="https://space.bilibili.com/17832078" description="undefined 的 bilibili 空间 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)"/>
       <outline text="超级小桀的日常" type="rss" xmlUrl="https://rsshub.black-desk.cn/bilibili/user/video/29440965" htmlUrl="https://space.bilibili.com/29440965" description="undefined 的 bilibili 空间 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)"/>
       <outline text="青蛙刀圣1993" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCWx-9tUBYtpVVchhNVDchSw" htmlUrl="https://www.youtube.com/channel/UCWx-9tUBYtpVVchhNVDchSw" description=""/>
