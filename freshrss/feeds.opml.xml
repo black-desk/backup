@@ -2,7 +2,7 @@
 <opml xmlns:frss="https://freshrss.org/opml" version="2.0">
   <head>
     <title>FreshRSS</title>
-    <dateCreated>Mon, 07 Aug 2023 04:10:41 +0800</dateCreated>
+    <dateCreated>Mon, 14 Aug 2023 04:10:54 +0800</dateCreated>
   </head>
   <body>
     <outline text="未分类">
@@ -15,7 +15,7 @@
     </outline>
     <outline text="技术">
       <outline text="Ariadne's Space" type="rss" xmlUrl="https://ariadne.space/feed/" htmlUrl="https://ariadne.space/" description=""/>
-      <outline text="DIYgod" type="rss" xmlUrl="https://diygod.me/feed?format=xml" htmlUrl="https://diygod.me/" description="写代码是热爱，写到世界充满爱！"/>
+      <outline text="DIYgod" type="rss" xmlUrl="https://diygod.cc/feed?format=xml" htmlUrl="https://diygod.me/" description="写代码是热爱，写到世界充满爱！"/>
       <outline text="LWN.net" type="rss" xmlUrl="http://lwnfeed:8080/feed.rss" htmlUrl="https://lwn.net/" description="LWN.net is a comprehensive source of news and opinions from and about the Linux community. This is the main LWN.net feed, listing all articles which are posted to the site front page."/>
       <outline text="Nicholas Nethercote" type="rss" xmlUrl="https://nnethercote.github.io/feed.xml" htmlUrl="https://nnethercote.github.io/" description="Be kind and be useful."/>
       <outline text="Sid Bala" type="rss" xmlUrl="https://sidbala.com/rss/" htmlUrl="https://sidbala.com/" description="Technology Polymath"/>
@@ -44,6 +44,7 @@
     </outline>
     <outline text="通知">
       <outline text="FreshRSS releases" type="rss" xmlUrl="https://github.com/FreshRSS/FreshRSS/releases.atom" htmlUrl="https://github.com/FreshRSS/FreshRSS/" description="FreshRSS releases @ GitHub"/>
+      <outline text="Neovim breaking changes" type="rss" xmlUrl="https://github.com/neovim/neovim/commits/master/runtime/doc/news.txt.atom" htmlUrl="https://github.com/neovim/neovim/commits/master/runtime/doc/news.txt" description=""/>
       <outline text="武汉 展览 iMuseum" type="rss" xmlUrl="https://rsshub.black-desk.cn/imuseum/wuhan/all" htmlUrl="https://art.icity.ly/wuhan/all" description="专注于全球艺术展览、博物馆活动，时刻了解身边正在进行的展览。 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)"/>
     </outline>
   </body>
