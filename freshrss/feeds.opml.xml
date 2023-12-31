@@ -2,7 +2,7 @@
 <opml xmlns:frss="https://freshrss.org/opml" version="2.0">
   <head>
     <title>FreshRSS</title>
-    <dateCreated>Mon, 25 Dec 2023 04:11:50 +0800</dateCreated>
+    <dateCreated>Mon, 01 Jan 2024 04:11:59 +0800</dateCreated>
   </head>
   <body>
     <outline text="未分类">
@@ -20,6 +20,7 @@
       <outline text="Nicholas Nethercote" type="rss" xmlUrl="https://nnethercote.github.io/feed.xml" htmlUrl="https://nnethercote.github.io/" description="Be kind and be useful."/>
       <outline text="Sid Bala" type="rss" xmlUrl="https://sidbala.com/rss/" htmlUrl="https://sidbala.com/" description="Technology Polymath"/>
       <outline text="stuff by danvet" type="rss" xmlUrl="https://blog.ffwll.ch/feed.xml" htmlUrl="http://blog.ffwll.ch/" description="Vetter's ramblings on code, bugs, graphics, hw and the utter lack of sanity in all this."/>
+      <outline text="taoky’s blog" type="rss" xmlUrl="https://blog.taoky.moe/feed.xml" htmlUrl="https://blog.taoky.moe/" description="taoky's blog"/>
       <outline text="The GitHub Blog" type="rss" xmlUrl="https://github.blog/feed/" htmlUrl="https://github.blog/" description="Updates, ideas, and inspiration from GitHub to help developers build and design software."/>
       <outline text="⑨BIE" type="rss" xmlUrl="https://9bie.org/index.php/feed/" htmlUrl="https://9bie.org/" description="伪技术宅的迷之地  ~~  Strange Place Of The Pseudo Geeks"/>
       <outline text="夜法之书" type="rss" xmlUrl="https://blog.17lai.site/atom.xml" htmlUrl="https://blog.17lai.site/" description=""/>
