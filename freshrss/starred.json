@@ -876,8 +876,8 @@
         "user/-/state/com.google/reading-list",
         "user/-/state/com.google/read",
         "user/-/state/com.google/starred",
-        "user/-/label/pt",
         "user/-/label/nas",
+        "user/-/label/pt",
         "user/-/label/docker",
         "user/-/label/emby"
     ],
